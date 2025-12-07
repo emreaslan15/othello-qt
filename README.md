@@ -10,7 +10,7 @@ companion CLI engine (`OthelloCLI.py` by Martin Lester).
 
 ## Features
 
--   **Fully playable Othello/Reversi game**
+-   Fully playable Othello/Reversi game
 -   Click-based move input
 -   Automatic turn passing when the opponent has no legal moves
 -   Live score display (Black & White)
