@@ -25,8 +25,8 @@ companion CLI engine (`OthelloCLI.py` by Martin Lester).
 
 Make sure you have:
 
--   **Python 3.10+**
--   **PyQt6**
+-   Python 3.10+ (tested with Python 3.11.7)
+-   PyQt6
 
 Install dependencies with:
 
