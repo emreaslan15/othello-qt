@@ -1,6 +1,4 @@
-# othello-qt
-Implementation of Othello/Reversi in Python
-# Othello / Reversi --- PyQt6 GUI
+# Othello / Reversi with PyQt6 GUI
 
 A simple Othello (Reversi) game implemented with **Python** and
 **PyQt6**.\
