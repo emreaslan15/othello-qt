@@ -56,7 +56,7 @@ it for game logic.
 
 ------------------------------------------------------------------------
 
-## 🧠 How It Works
+## How It Works
 
 ### `OthelloGUI.py`
 
